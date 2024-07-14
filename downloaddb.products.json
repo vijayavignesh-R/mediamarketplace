@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "6632b9800e2b97b9b8c5749c"
+  },
+  "name": "C Syllabus",
+  "pdffile": "https://www.bestdotnettraining.com/pdf/CLanguageSyllabus.pdf",
+  "image": "https://m.media-amazon.com/images/I/817zaO0LVcL._AC_UF1000,1000_QL80_.jpg",
+  "brand": "syllabus",
+  "category": "pdfs",
+  "description": "This is C Syllabus",
+  "price": 400,
+  "stock": 12,
+  "rating": 5,
+  "numRev": 46,
+  "createdAt": {
+    "$date": "2024-05-01T21:52:00.535Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-12T09:02:56.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632bafd42a63c7d68eb6eb9"
+  },
+  "name": "dsfsdf",
+  "pdffile": "https://www.bestdotnettraining.com/pdf/CLanguageSyllabus.pdf",
+  "image": "https://m.media-amazon.com/images/I/817zaO0LVcL._AC_UF1000,1000_QL80_.jpg",
+  "brand": "dsfsd",
+  "category": "pdfs",
+  "description": "sdfs",
+  "price": 2,
+  "stock": 54,
+  "rating": 5,
+  "numRev": 4,
+  "createdAt": {
+    "$date": "2024-05-01T21:58:21.925Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-12T09:39:00.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632e6d1d14151c4e4ba60cd"
+  },
+  "name": "C++ ",
+  "pdffile": "https://cds.iisc.ac.in/wp-content/uploads/DS286.AUG2016.Lab2_.cpp_tutorial.pdf",
+  "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_CPP.jpg",
+  "brand": "C++",
+  "category": "pdfs",
+  "description": "this is C++ book",
+  "price": 100,
+  "stock": 120,
+  "rating": 5,
+  "numRev": 15,
+  "createdAt": {
+    "$date": "2024-05-02T01:05:21.982Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T01:05:21.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66332da038de6805c0f4668d"
+  },
+  "name": "Web Software",
+  "pdffile": "",
+  "image": "https://www.pngitem.com/pimgs/m/112-1128181_software-development-png-transparent-images-software-development-images.png",
+  "brand": "Web IT",
+  "category": "softwares",
+  "description": "Web Software Kits",
+  "price": 250,
+  "stock": 23,
+  "rating": 5,
+  "numRev": 45,
+  "createdAt": {
+    "$date": "2024-05-02T06:07:28.107Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T06:07:28.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66333e1a38de6805c0f466d8"
+  },
+  "name": "HP Printer Driver",
+  "pdffile": "",
+  "image": "https://www.allprintheads.com/cdn/shop/articles/1160x760_printer_driver.png?v=1704684910",
+  "brand": "HP",
+  "category": "drivers",
+  "description": "Driver 2024",
+  "price": 25,
+  "stock": 50,
+  "rating": 4,
+  "numRev": 51,
+  "createdAt": {
+    "$date": "2024-05-02T07:17:46.939Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T20:45:23.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633408c38de6805c0f466ea"
+  },
+  "name": "Dark Passage",
+  "pdffile": "https://www.amazon.com/Dark-Passage-Gripping-Serial-Thriller-ebook/dp/B08RMJGYZS/ref=sr_1_13?crid=NL2TLJ0S5V2P&dib=eyJ2IjoiMSJ9.TaWFq_v8DSNQZtWB1CauegQDNwXpIKeNjuYBIDo3UmfonYGgkz-uY9nMGzWKDdvy_c2f4TMHXc_6kOYoSP9uhbP50mTbJ8EjgBlmZWR9OySbkMmGpGFq7v21RvrnwtcyO_ly0wi3emp7UYr2tlw_Dveooc_UKmxNun1e6xtFimr9u2o0k7ZEhL0ZWKyT_zue_I2utkBG3p2RQDLICjtZTlGhACJ26kEQqXIYx76JEzg.aph9qeB-CdZSjxtpoeLIJvFuLjtvQKY5A20VPSThc0c&dib_tag=se&keywords=free+books&qid=1714634739&s=digital-text&sprefix=free+book%2Cdigital-text%2C385&sr=1-13",
+  "image": "https://m.media-amazon.com/images/I/510mrsIggLL._SY445_SX342_.jpg",
+  "brand": "Dark",
+  "category": "books",
+  "description": "Dark Passage",
+  "price": 0,
+  "stock": 100,
+  "rating": 3,
+  "numRev": 15,
+  "createdAt": {
+    "$date": "2024-05-02T07:28:12.386Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T07:28:12.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663342a238de6805c0f466f8"
+  },
+  "name": "The Gift of Work",
+  "pdffile": "https://manybooks.net/ebook/the-gift-of-work-overcoming-workplace-burnout-and-finding-satisfaction-in-your-9-to-5",
+  "image": "https://manybooks.net/sites/default/files/styles/220x330_ebook/public/webform/ebook_feature_application/9540/the-gift-of-work-coverfront-%5B05-08-23%5D.jpg?itok=kz9Of4q_",
+  "brand": "Gift",
+  "category": "books",
+  "description": "The Gift of Work",
+  "price": 0,
+  "stock": 89,
+  "rating": 5,
+  "numRev": 76,
+  "createdAt": {
+    "$date": "2024-05-02T07:37:06.528Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T07:37:06.528Z"
+  },
+  "__v": 0
+}]

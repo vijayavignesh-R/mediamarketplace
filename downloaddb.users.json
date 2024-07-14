@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "65f67b12cdaee9316c9b0297"
+  },
+  "isAdmin": false,
+  "name": "raja",
+  "email": "raja@gmail.com",
+  "password": "$2a$08$/DeoH2bi1ZC96AbBikrXKOGh/oQJKpGnTciaBiR3LGfgAEDSHUSsK",
+  "createdAt": {
+    "$date": "2024-03-17T05:09:38.312Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-17T05:09:38.312Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633029238de6805c0f46626"
+  },
+  "isAdmin": false,
+  "name": "kums",
+  "email": "kkumarbcacs@gmail.com",
+  "password": "$2a$08$0BqpcMBrjEBfT0LqnFky6uOe/gRCv96jTWF5okpPS5lBsr6tjKB02",
+  "createdAt": {
+    "$date": "2024-05-02T03:03:46.322Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T03:03:46.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663d140dace90f2cc0ad715b"
+  },
+  "isAdmin": false,
+  "name": "kkk",
+  "email": "kk@gmail.com",
+  "password": "$2a$08$j6DXzW1U1CVLjnxeFyrODe4PwmvXJZ8ZxgDZbaz7802MTKPOTB3q6",
+  "createdAt": {
+    "$date": "2024-05-09T18:21:01.943Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T18:21:01.943Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,126 @@
+.maino{
+    background-color: #E3E6E6;
+    padding: 40px 80px 1px 80px;
+}
+.maint{
+    background-color: #E3E6E6;
+    padding: 1px 80px 20px 80px;
+}
+.mainth{
+    background-color: #E3E6E6;
+    padding: 40px 80px 20px 80px;
+}
+
+
+
+.one{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #E3E6E6;
+
+   justify-content: space-between;
+}
+.smain{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    gap: 10px;
+    padding: 5px;
+
+}
+.simg{
+    width: 156px;
+    height: 116px;
+}
+
+.hbtn{
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: solid #147C8F 1px;
+    color: #147C8F;
+}
+.two{
+background-color: white;
+padding: 25px;
+margin: 20px 0px;
+}
+.fmain{
+    background-color: white;
+    padding: 50px;
+    margin: 50px 0px;
+}
+.fimg{
+    width: 250px;
+    height: 200px;
+
+}
+.fpar{
+    padding: 30px 0px 0px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.fpar  img{
+        display: block;
+      
+}
+
+.fpar button {
+   
+    padding: 10px 15px;
+    background-color: rgb(72, 181, 236);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 30px;
+
+}
+.fpar h4{
+    line-height: 50px;
+}
+.printon{
+    text-align: center;
+
+}
+.foot{
+
+    background-color: #232F3E;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.fan{
+    display: block;
+    color: rgb(208, 206, 206);
+    padding: 5px 0px;
+}
+.fchi > h3{
+    color: white;
+}
+.fchi{
+    padding: 0px 100px;
+}
+.cpy{
+    background-color: #232F3E;
+    padding: 50px;
+    border-top: solid 1px white;
+    text-align: center;
+    color: white;
+    line-height: 30px;
+
+}
+.printo img{
+  width: 292px;   
+  height: 466px;
+}
+
+.printo button{
+    margin-bottom: 80px;
+}
+.fmai{
+    background-color: white;
+    padding: 50px 50px 0px 50px;
+    margin: 50px 0px;
+}

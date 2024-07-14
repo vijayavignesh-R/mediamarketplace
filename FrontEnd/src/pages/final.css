@@ -1,0 +1,48 @@
+#printone{
+
+    border: ridge 1px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+#pbr{
+    border: ridge 1px rgb(177, 177, 177);
+}
+
+#pbr h2{
+    font-size: 18px;
+}
+#pbrp{
+    font-size: 18px;
+    font-weight: normal;
+}
+#rido{
+font-size: 18px;
+}
+#rid{
+    font-size: 15px;
+}
+#mbg{
+    background-image: url('https://img.freepik.com/free-photo/abstract-digital-grid-black-background_53876-97647.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#bth{
+    background-color: aqua;
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-size: 18px;
+   
+}
+#bthb{
+   margin: 30px;
+   border: none;
+}
+
+#pmad{
+    padding-right: 60px;
+    border: ridge 1px ;
+    width: 200px;
+}
+#pmad:hover{
+    background-color: yellow;
+}
